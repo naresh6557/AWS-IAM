@@ -1,6 +1,6 @@
 ## Lab 1 - Introduction to AWS Identity and Access Management (IAM)
-## NAME : DODLA SUSMITHA
-## REGISTER NO: 212224110016
+## NAME : R NARESH KUMAR
+## REGISTER NO: 212224040213
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
